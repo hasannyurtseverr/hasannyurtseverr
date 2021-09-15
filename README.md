@@ -29,30 +29,19 @@
  <img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white >  
  <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black>
  <img src=https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white>
-
 <!-- Libraries!-->  
-
  <img src=https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white >
  <img src=https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white >
  <img src=https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white >
  <img src=https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white >
  <img src=https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white >
-  <img src=https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white >
-<!-- -------- -->
-<!-- -- -->
+ <img src=https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white >
 <!-- ⚡ Database!-->
-<!--  --------- -->
  <img src=https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white>
  <img src=https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white>
-<!--  --------- -->
-<!-- -- -->
 <!-- 📱 Mobile Frameworks!-->
-<!--  --------- -->
  <img src=https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white>
-<!--  --------- --> 
-<!-- -- -->
 <!-- 🚀 Frameworks!-->
-<!--  --------- --> 
  <img src=https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white >  
  <img src=https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white>
  <img src=https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white>
@@ -66,59 +55,35 @@
  <img src=https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white>
  <img src=https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white>
  <img src=https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white>
-<!--  --------- -->  
-<!-- -- -->
 <!--  ⏱️ Workflow Platforms!-->
-<!--  --------- --> 
  <img src=https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white>
-<!--  --------- --> 
-<!-- -- -->
 <!--  ☁ Cloud-->
-<!--  --------- --> 
  <img src=https://img.shields.io/badge/Amazon AWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white>
  <img src=https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white>
  <img src=https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white>
  <img src=https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white>
  <img src=https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white> 
-<!--  --------- -->  
-<!-- -- -->
-<!--  👩‍💻 IDE -->
-<!--  --------- -->  
+<!--  👩‍💻 IDE -->  
  <img src=https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white>
  <img src=https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252>
  <img src=https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon>
  <img src=https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black>
- <!-- -- -->
 <!--   💡 Prototyping Platforms -->
-<!--  --------- --> 
  <img src=https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white>
- <!-- -- -->
 <!--  👨‍💻 Office -->
-<!--  --------- --> 
  <img src=https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white>
  <img src=https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white>
  <img src=https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white>
  <img src=https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white>
- <!--  --------- --> 
-<!-- -- -->
 <!--  🖍📐 Design -->
-<!--  --------- --> 
  <img src=https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15>
  <img src=https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6>
  <img src=https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black>
- <!--  --------- --> 
- <!-- -- -->
 <!--   📝 Blog -->
-<!--  --------- --> 
  <img src=https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white>
- <!--  --------- --> 
- <!-- -- -->
-<!--   💲 Cryptocurrency -->
-<!--  --------- --> 
- 
+<!--   💲 Cryptocurrency --> 
  <img src=https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white>
  <img src=https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white>
- <!--  --------- -->
 </p>
 
 
