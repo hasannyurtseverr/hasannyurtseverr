@@ -23,11 +23,17 @@ Here are some ideas to get you started:
 
 
 
-
 <!--
-<p align=center><a href="https://github.com/hasannyurtseverr"><img src="https://avatars.githubusercontent.com/u/62343473?s=60&v=4" /></a></p>
--->
+<p align=center ><img src="https://i.imgur.com/u0IETFu.png" title="source: imgur.com" /></p>
+<p align=center><a href="https://imgur.com/9cyvBLo"><img src="https://i.imgur.com/9cyvBLo.png" title="source: imgur.com" /></a></p>
 
+
+
+<p align=center><a href="https://github.com/deep5050"><img src="https://i.imgur.com/iz0jaCX.png" /></a></p>
+!-->
+
+<p align=center><a href="https://imgur.com/XJpcu1U"><img src="https://i.imgur.com/mTjyVAq.png" title="source: imgur.com"  /></a></p>
+<p align=center>
   <img src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white >
  <img src=https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen >
  <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black>
@@ -73,7 +79,6 @@ Here are some ideas to get you started:
  <img src=https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white>
 <!--   --- -->
  </p>
-
 
 <div>
 cpp  
