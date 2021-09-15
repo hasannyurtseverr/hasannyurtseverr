@@ -77,7 +77,7 @@
 <!--  🖍📐 Design -->
  <img src=https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15>
  <img src=https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6>
- <img src=https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black>
+ <img src=https://img.shields.io/static/v1?style=for-the-badge&message=SketchUp&color=005F9E&logo=SketchUp&logoColor=FFFFFF&label=>
 <!--   📝 Blog -->
  <img src=https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white>
 <!--   💲 Cryptocurrency --> 
