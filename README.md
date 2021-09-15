@@ -75,9 +75,11 @@
  <img src=https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white>
  <img src=https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white>
 <!--  🖍📐 Design -->
+ <img src=https://img.shields.io/static/v1?style=for-the-badge&message=Autodesk&color=0696D7&logo=Autodesk&logoColor=FFFFFF&label=>
  <img src=https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15>
  <img src=https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6>
  <img src=https://img.shields.io/static/v1?style=for-the-badge&message=SketchUp&color=005F9E&logo=SketchUp&logoColor=FFFFFF&label=>
+ <img src=https://img.shields.io/static/v1?style=for-the-badge&message=Altium+Designer&color=A5915F&logo=Altium+Designer&logoColor=FFFFFF&label=>
 <!--   📝 Blog -->
  <img src=https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white>
 <!--   💲 Cryptocurrency --> 
