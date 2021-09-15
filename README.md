@@ -2,43 +2,46 @@
 
 ### About Me 🚀
 🌱 I’m a Electrical-Electronic engineer and a masters degree in AI. </br>
-👨‍💻  I am passionate about Machine Learning & I enjoy learning new things. </br>.
+👨‍💻  I am passionate about Machine Learning & I enjoy learning new things. </br>
 
 
 <!--<img src="https://github-readme-stats.vercel.app/api?username=hasannyurtseverr&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
--->
+
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasannyurtseverr)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 
-
 <!--
 <p align=center ><img src="https://i.imgur.com/u0IETFu.png" title="source: imgur.com" /></p>
 <p align=center><a href="https://imgur.com/9cyvBLo"><img src="https://i.imgur.com/9cyvBLo.png" title="source: imgur.com" /></a></p>
 
-
-
-<p align=center><a href="https://github.com/deep5050"><img src="https://i.imgur.com/iz0jaCX.png" /></a></p>
-
+<p align=center><a href="https://github.com/hasannyurtseverr"><img src="https://i.imgur.com/iz0jaCX.png" /></a></p>
 
 <p align=center><a href="https://imgur.com/XJpcu1U"><img src="https://i.imgur.com/mTjyVAq.png" title="source: imgur.com"  /></a></p>
 !-->
+
 <p align=center>
-  <img src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white >
- <img src=https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen >
+<!-- Programlar!-->
+ <img src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white >
+ <img src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white >
+ <img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white >  
  <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black>
  <img src=https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white >
  <img src=https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white>
 <!-- -- -->
+<!-- Kütüphaneler!-->  
 <!--  --------- -->
  <img src=https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white >
  <img src=https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white >
- <img src=https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white >
- <img src=https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white >
- <img src=https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white >
+ <img src=https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white >
+ <img src=https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white >
+ <img src=https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white >
+  <img src=https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white >
 <!-- -------- -->
+  
+  
  <img src=https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white>
  <img src=https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white >
  <img src=https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white >
