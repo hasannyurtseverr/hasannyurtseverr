@@ -58,7 +58,6 @@
 <!--  ⏱️ Workflow Platforms!-->
  <img src=https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white>
 <!--  ☁ Cloud-->
- <img src=https://img.shields.io/badge/Amazon AWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white>
  <img src=https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white>
  <img src=https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white>
  <img src=https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white>
