@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 
-<p align=center><a href="https://github.com/hasannyurtseverr"><img src="https://i.imgur.com/iz0jaCX.png" /></a></p>
+<p align=center><a href="https://github.com/hasannyurtseverr"><img src="https://avatars.githubusercontent.com/u/62343473?s=60&v=4" /></a></p>
 
 <p align=center><a href="https://imgur.com/XJpcu1U"><img src="https://i.imgur.com/mTjyVAq.png" title="source: imgur.com"  /></a></p>
 <p align=center>
