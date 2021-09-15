@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **hasannyurtseverr/hasannyurtseverr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <!--<img src="https://github-readme-stats.vercel.app/api?username=hasannyurtseverr&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 -->
 
@@ -80,21 +80,6 @@ Here are some ideas to get you started:
  <img src=https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white>
 <!--   --- -->
  </p>
-
-<div>
-cpp  
-                                    void life(void)
-                                    {
-                                      printf("Hi 👋, I'm Hasan \n");
-                                      printf("A passionate kernel hacker from Turkey \n");
-                                      char currentlyLearning[] = "openWRT";
-                                      char AskMeAbout[] = "Linux";
-                                      char ReachMeAt[] = "hasannyurtseverr@gmail.com";
-                                    }
-
-
-</div>
-
 
 
 <div align=center>
