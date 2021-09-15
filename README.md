@@ -58,6 +58,7 @@
 <!--  ⏱️ Workflow Platforms!-->
  <img src=https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white>
 <!--  ☁ Cloud-->
+ <img src=https://img.shields.io/badge/Amazon AWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white>
  <img src=https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white>
  <img src=https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white>
  <img src=https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white>
@@ -98,6 +99,5 @@
 <a href="https://tr.linkedin.com/in/hasan-yurtsever-1a5b42147" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dpnkr.pl" height="20" width="20" /></a>
 </p>
 <p align=center><a href=https://www.youtube.com/channel/UC-GXFBxqnRtRZQsOAU6zAyw> <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCHE71XuJOPKlHSxSr40u5Lw?style=social"></a>
-  
 <a href=https://www.youtube.com/channel/UC-GXFBxqnRtRZQsOAU6zAyw> <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCHE71XuJOPKlHSxSr40u5Lw?style=social"></a></p>
 </p>
