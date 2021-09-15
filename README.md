@@ -24,11 +24,10 @@ Here are some ideas to get you started:
 
 
 
-
+<!--
 <p align=center><a href="https://github.com/hasannyurtseverr"><img src="https://avatars.githubusercontent.com/u/62343473?s=60&v=4" /></a></p>
+-->
 
-<p align=center><a href="https://imgur.com/XJpcu1U"><img src="https://i.imgur.com/mTjyVAq.png" title="source: imgur.com"  /></a></p>
-<p align=center>
   <img src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white >
  <img src=https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen >
  <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black>
@@ -75,7 +74,7 @@ Here are some ideas to get you started:
 <!--   --- -->
  </p>
 
-<!--
+
 <div>
 cpp  
                                     void life(void)
@@ -89,7 +88,7 @@ cpp
 
 
 </div>
-!-->
+
 
 
 <div align=center>
@@ -105,7 +104,7 @@ cpp
    <img src="https://img.shields.io/badge/java%20-%23339933.svg?&style=for-the-badge&logo=java&logoColor=white" />
   !--> 
   
-<!--    <p align=center><a href="https://github.com/deep.5050"><img src="https://i.imgur.com/MN69E9a.png" title="Technologies I use" align=center/></a></p> -->
+<!--    <p align=center><a href="https://github.com/hasannyurtseverr"><img src="https://i.imgur.com/MN69E9a.png" title="Technologies I use" align=center/></a></p> -->
 
 
    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hasannyurtseverr&show_icons=true" alt="hasannyurtseverr" /> </p>
